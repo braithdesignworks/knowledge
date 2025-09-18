@@ -9,7 +9,7 @@
 
 **PER-CLASS REFERENCES**
 - [[IDSGN-107 Furniture Design Studio\|IDSGN-107 Furniture Design Studio]]
-- [[braithdesignworks/Transportation Design Studio/IDSGN-221 Transportation Design Reference Material\|IDSGN-221 Transportation Design Reference Material]]
+- [[IDSGN-221 Transportation Design\|IDSGN-221 Transportation Design]]
 - [[ENGTC-168&268 Computer Numerical Control\|ENGTC-168&268 Computer Numerical Control]]
 
 **GENERAL REFERENCE**
