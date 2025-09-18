@@ -13,4 +13,4 @@
 - [[braithdesignworks/CNC/ENGTC-168&268 Computer Numerical Control\|ENGTC-168&268 Computer Numerical Control]]
 
 **GENERAL REFERENCE**
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]]
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]]
