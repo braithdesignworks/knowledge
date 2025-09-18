@@ -9,3 +9,6 @@ This is a little website that should hopefully help with computer programs we ar
 **COMPUTER PROGRAMS**
 [[Fusion360 Usage for ENGTC-168&268\|Fusion360 Usage for ENGTC-168&268]]
 [[Adobe Illustrator Usage for IDSGN-221\|Adobe Illustrator Usage for IDSGN-221]]
+
+**QUICK REFERENCES**
+[[IDSGN-221 Reference Material\|IDSGN-221 Reference Material]]
