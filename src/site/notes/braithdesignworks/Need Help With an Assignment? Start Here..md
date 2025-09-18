@@ -12,4 +12,5 @@ This is a little website that should hopefully help with computer programs we ar
 
 **QUICK REFERENCES**
 [[braithdesignworks/Transportation Design Studio/IDSGN-221 Transportation Design Reference Material\|IDSGN-221 Transportation Design Reference Material]]
-[[Brain/Documents/Creative/CNC Programming and Machining\|CNC Programming and Machining]]
+[[ENGTC-168&268 Computer Numerical Control\|ENGTC-168&268 Computer Numerical Control]]
+
