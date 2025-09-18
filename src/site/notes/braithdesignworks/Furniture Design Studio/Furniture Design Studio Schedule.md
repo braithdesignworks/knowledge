@@ -29,27 +29,27 @@
 
 **OCTOBER 24**
 - [[Brain/Documents/Creative/Fusion360\|Fusion360]] Demo - CAM basics (2D profile) [[Brain/Documents/Creative/CNC Programming and Machining\|CNC Programming and Machining]]
-- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **OCTOBER 31**
 - [[Brain/Documents/Creative/Fusion360\|Fusion360]] Demo - CAM (pocket, etc...) [[Brain/Documents/Creative/CNC Programming and Machining\|CNC Programming and Machining]]
-- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 7**
 - Cut 2 student projects in class
-- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 14**
 - Cut 2 student projects in class
-- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 21**
 - Cut 2 student projects in class
-- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 28**
