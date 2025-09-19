@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/braithdesignworks/furniture-design-studio/furniture-design-studio-schedule/"}
 ---
 
+## Currently Tentative Schedule - May Change
+
 
 **SEPTEMBER 19**
 - [[Brain/Documents/Creative/Fusion360\|Fusion360]] Demo - Intro to the program, file setup, etc...
@@ -29,27 +31,27 @@
 
 **OCTOBER 24**
 - [[Brain/Documents/Creative/Fusion360\|Fusion360]] Demo - CAM basics (2D profile) [[Brain/Documents/Creative/CNC Programming and Machining\|CNC Programming and Machining]]
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **OCTOBER 31**
 - [[Brain/Documents/Creative/Fusion360\|Fusion360]] Demo - CAM (pocket, etc...) [[Brain/Documents/Creative/CNC Programming and Machining\|CNC Programming and Machining]]
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 7**
 - Cut 2 student projects in class
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 14**
 - Cut 2 student projects in class
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 21**
 - Cut 2 student projects in class
-- [[braithdesignworks/DVC Laser Cutters\|DVC Laser Cutters]] scale models
+- [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]] scale models
 
 
 **NOVEMBER 28**
