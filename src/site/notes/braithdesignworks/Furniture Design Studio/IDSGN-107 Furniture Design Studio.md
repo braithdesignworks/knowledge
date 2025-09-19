@@ -8,7 +8,7 @@ https://www.autodesk.com/products/fusion-360/personal
 **Fusion Online**
 https://fusion.online.autodesk.com/
 
-**Fusion 360 Notes**
+**How To Use Fusion 360**
 [[Brain/Documents/Creative/Fusion360\|Fusion360]]
 
 **Class Schedule**
