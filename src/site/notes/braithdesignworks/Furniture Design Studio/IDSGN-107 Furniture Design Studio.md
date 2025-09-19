@@ -9,6 +9,4 @@ https://www.autodesk.com/products/fusion-360/personal
 https://fusion.online.autodesk.com/
 
 
-![Lego Brick Dimensions.png](/img/user/braithdesignworks/Furniture%20Design%20Studio/Lego%20Brick%20Dimensions.png)
-
 [[braithdesignworks/Furniture Design Studio/Furniture Design Studio Schedule\|Furniture Design Studio Schedule]]
