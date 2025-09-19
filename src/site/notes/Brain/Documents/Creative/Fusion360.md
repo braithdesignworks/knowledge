@@ -3,7 +3,7 @@
 ---
 
 
-## **FOR CNC CLASS**
+#### **FOR CNC CLASS:**
 [[braithdesignworks/CNC/Fusion360 Usage for ENGTC-168&268\|Fusion360 Usage for ENGTC-168&268]]
 
 ## **FUSION EXPLAINED**
