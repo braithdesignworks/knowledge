@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/braithdesignworks/furniture-design-studio/idsgn-107-furniture-design-studio/"}
 ---
 
-**Download Fusion:
-https://www.autodesk.com/products/fusion-360/personal**
+**Download Fusion:**
+https://www.autodesk.com/products/fusion-360/personal
+
+**Fusion Online**
+https://fusion.online.autodesk.com/
+
 
 ![Lego Brick Dimensions.png](/img/user/braithdesignworks/Furniture%20Design%20Studio/Lego%20Brick%20Dimensions.png)
 
