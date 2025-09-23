@@ -13,4 +13,4 @@
 
 
 ### MAKING YOUR MODELS MORE "PRO"
-Transitioning between flat and curved shapes? Or even different curves? [[G2 and G3 Curves\|G2 and G3 Curves]]
+Transitioning between flat and curved shapes? Or even different curves? [[Brain/G2 and G3 Curves\|G2 and G3 Curves]]
