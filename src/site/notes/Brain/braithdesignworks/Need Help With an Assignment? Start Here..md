@@ -7,6 +7,8 @@
 - #### This is essentially hosted off of my note-taking app, so it isn't entirely curated for sharing with others. Its just a nice benefit that I can do this to share my notes.
 - *If something isn't working, let me know!*
 
+## [[Brain/Documents/Creative/Fusion360\|Fusion360]]
+
 **PER-CLASS REFERENCES**
 - [[Brain/braithdesignworks/Furniture Design Studio/IDSGN-107 Furniture Design Studio\|IDSGN-107 Furniture Design Studio]]
 - [[Brain/braithdesignworks/Transportation Design Studio/IDSGN-221 Transportation Design\|IDSGN-221 Transportation Design]]
@@ -14,5 +16,3 @@
 
 **GENERAL REFERENCE**
 - [[Brain/Documents/DVC/DVC Laser Cutters\|DVC Laser Cutters]]
-- [[Brain/Documents/Creative/Fusion360\|Fusion360]]
-- 
