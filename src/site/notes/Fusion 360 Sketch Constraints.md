@@ -3,7 +3,7 @@
 ---
 
 
-[[Fusion 360 Horizontal/Vertical Constraint\|Fusion 360 Horizontal/Vertical Constraint]]
+[[Fusion 360 HorizontalVertical Constraint\|Fusion 360 HorizontalVertical Constraint]]
 [[Fusion 360 Coincident Constraint\|Fusion 360 Coincident Constraint]]
 [[Fusion 360 Tangent Constraint\|Fusion 360 Tangent Constraint]]
 [[Fusion 360 Equal Constraint\|Fusion 360 Equal Constraint]]
