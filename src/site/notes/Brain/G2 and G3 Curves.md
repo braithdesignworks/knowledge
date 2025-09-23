@@ -11,6 +11,7 @@ G2 and G3 curves are ways to smooth out the transition between shapes.
 
 Note, that because you need time for the curvature to smoothly start, your curvature will need to start further back than with a simple fillet.
 
+###### G2 Curvature is built into 2D sketches - [[Fusion 360 Curvature Constraint\|Fusion 360 Curvature Constraint]]
 ## 2D Construction of G3 Curvature
 - Using a control point spline, create 3 control points co-linear with your line, 1 intermediary, and 3 more co-linear with the other line. 
 - Constraints won't be created automatically, so use the [[Fusion 360 Coincident Constraint\|Fusion 360 Coincident Constraint]] by selecting the line leading into the transition, and then the 3 control points.
