@@ -8,6 +8,17 @@ In Fusion, you can use the **Sketch** tools to create the sketch profiles that
 [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]]
 
 
+
+
+
+
+
+
+
+
+
+
+Autodesk's resources:
 ## Sketch profiles
 
 There are two types of sketch profiles in Fusion.
