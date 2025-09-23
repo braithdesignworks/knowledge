@@ -7,7 +7,7 @@
 
 ## [[Fusion 360 T-Splines Modeling Theory\|Fusion 360 T-Splines Modeling Theory]]
 
-##### Once you have read through that, it is time to start modeling.
+## Once you have read through that, it is time to start modeling.
 
 - Start by making the defining features of your model. Start off with the most similar shape from the **Form > Create** panel.
 - Set up [[Fusion 360 T-Spline Symmetry\|Fusion 360 T-Spline Symmetry]]
