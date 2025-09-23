@@ -9,7 +9,7 @@ https://www.autodesk.com/products/fusion-360/personal
 https://fusion.online.autodesk.com/
 
 **How To Use Fusion 360**
-[[Brain/braithdesignworks/Fusion360\|Brain/braithdesignworks/Fusion360]]
+[[Brain/Documents/Creative/Fusion360\|Fusion360]]
 
 **Class Schedule**
 [[Brain/braithdesignworks/Furniture Design Studio/Furniture Design Studio Schedule\|Furniture Design Studio Schedule]]
