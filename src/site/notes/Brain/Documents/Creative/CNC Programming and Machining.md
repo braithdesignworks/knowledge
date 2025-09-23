@@ -3,7 +3,7 @@
 ---
 
 
-[[Brain/Documents/Creative/Fusion360\|Fusion360]]
+[[Brain/Documents/Creative/Fusion360\|Brain/Documents/Creative/Fusion360]]
 
 
 **RESOURCES**

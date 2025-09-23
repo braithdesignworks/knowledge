@@ -5,7 +5,7 @@
 
 
 [[Brain/Documents/Creative/Autocad\|Autocad]]
-Plot > VLS 3.5
+Plot > VLS 3.5/60DT
 Default Paper Size
 Plot Area > Window
 Select area to cut
