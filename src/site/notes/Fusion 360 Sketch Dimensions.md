@@ -32,6 +32,7 @@ The dimensions display in the canvas. Any sketch geometry that is constrained by
 2. Enter a new value or expression for the dimension.
 
 ## Convert a driving dimension to a driven dimension (or vice versa)
+[[Fusion 360 Driving vs Driven Dimensions\|Fusion 360 Driving vs Driven Dimensions]]
 
 1. Right-click the dimension you want to convert.
 2. Select **Toggle Driven** or **Toggle Driving**.

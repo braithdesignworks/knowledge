@@ -4,7 +4,7 @@
 
 ## **FUSION EXPLAINED**
 ###### Interfaces:
-[[Brain/Fusion 360 Interface 1\|Fusion 360 Interface 1]]
+[[Brain/Fusion 360 Interface\|Fusion 360 Interface]]
 [[Brain/Fusion 360 Create Tab\|Fusion 360 Create Tab]]
 [[Fusion 360 Sketch Constraints\|Fusion 360 Sketch Constraints]]
 ###### Design Environments:
