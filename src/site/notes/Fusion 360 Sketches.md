@@ -3,8 +3,7 @@
 ---
 
 In Fusion, you can use the **Sketch** tools to create the sketch profiles that drive the shape of solid, surface, and T-Spline bodies in your design. Sketches are the underlying geometry that support the creation of 3D solid, surface, and T-Spline bodies in your design.
-
-Sketches are created on planes, but **don't worry - sketch planes can be redefined later**
+###### Sketches are created on planes, but **don't worry - sketch planes can be redefined later**
 
 [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]]
 
