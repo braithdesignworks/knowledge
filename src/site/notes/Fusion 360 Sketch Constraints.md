@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/fusion-360-sketch-constraints/"}
 ---
 
+[[Fusion 360 Unconstrained and Constrained Sketches\|Fusion 360 Unconstrained and Constrained Sketches]]
 It is best practice to keep all your sketches in fusion fully constrained. One of the ways to do that, is with sketch constraints. The other is with [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]].
 
 
