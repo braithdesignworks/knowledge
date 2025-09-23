@@ -12,21 +12,21 @@
 - Try to match densities
 - Weld connections where it makes sense (and bridge when it doesn't)
 - Fill holes with 4-sided faces
-![Pasted image 20250922232819.png](/img/user/Pasted%20image%2020250922232819.png)
+![Fusion 360 T-Spline Modeling Detail Levels.png](/img/user/Fusion%20360%20T-Spline%20Modeling%20Detail%20Levels.png)
 
 ###### Less is more
 - Try to pare down control points as much as possible
-![Pasted image 20250922233119.png](/img/user/Pasted%20image%2020250922233119.png)
+![Fusion 360 T-Spline Modeling Less is More.png](/img/user/Fusion%20360%20T-Spline%20Modeling%20Less%20is%20More.png)
 
 ###### Avoid pinch points
 - Try to avoid junctions where loops create anything other than a + shape.
 - Use the "repair body" tool to highlight pinch points among other problems.
-![Pasted image 20250922233312.png](/img/user/Pasted%20image%2020250922233312.png)
+![Fusion 360 T-Spline Modeling Pinch Points.png](/img/user/Fusion%20360%20T-Spline%20Modeling%20Pinch%20Points.png)
 
 ###### Don't feel constrained within the sculpt environment.
 It's okay to use the patch environment later to connect T-Spline faces cleanly.
-![Pasted image 20250922233641.png](/img/user/Pasted%20image%2020250922233641.png)
+![Fusion 360 T-Spline Modeling Use Other Tools.png](/img/user/Fusion%20360%20T-Spline%20Modeling%20Use%20Other%20Tools.png)
 
 ###### Use "overbuilt" models to create cleaner geometry
 - Use other T-Spline surfaces to trim edges to more precisely control geometry.
-![Pasted image 20250922233926.png](/img/user/Pasted%20image%2020250922233926.png)
+![Fusion 360 T-Spline Modeling Overbuild.png](/img/user/Fusion%20360%20T-Spline%20Modeling%20Overbuild.png)

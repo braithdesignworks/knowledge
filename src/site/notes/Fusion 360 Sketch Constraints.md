@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/fusion-360-sketch-constraints/"}
 ---
 
+It is best practice to keep all your sketches in fusion fully constrained. One of the ways to do that, is with sketch constraints. The other is with [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]].
 
+
+## Sketch Constraints
 [[Fusion 360 Horizontal Vertical Constraint\|Fusion 360 Horizontal Vertical Constraint]]
 [[Fusion 360 Coincident Constraint\|Fusion 360 Coincident Constraint]]
 [[Fusion 360 Tangent Constraint\|Fusion 360 Tangent Constraint]]
