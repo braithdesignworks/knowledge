@@ -17,8 +17,8 @@
 
 
 ## Topology Cleanup
-Make sure to keep your topology nice and clean. If things get out of hand, use these tools to help clean up:
 [[Fusion 360 Good vs Bad Topology\|Fusion 360 Good vs Bad Topology]]
+Make sure to keep your topology nice and clean. If things get out of hand, use these tools to help clean up:
 ###### **Make Uniform** 
 **Form > Utilities > Make Uniform**
 Evenly distributes the angles at the intersection of star points, makes faces as uniform as possible, and optionally converts all T-Points to star points on a selected T-Spline body.
