@@ -116,6 +116,8 @@ You can control the following options in the **Sketch Palette** dialog:
 
 - **Contextual Options**: Displays options specific to the active sketch tool or selected geometry.
 - **Linetype**: Converts selected sketch geometry to a different linetype.
+{ #4f0cd1}
+
     - **Construction**: Creates construction geometry that you can reference without contributing to the boundaries of sketch profiles.
     - **Centerline**: Creates centerline geometry. Centerlines contribute to the boundaries of sketch profiles.
 - **Look At**: Rotates the camera to look directly at the active sketch plane.

@@ -24,3 +24,19 @@ With that sketch visible again, we are going to now extrude the sides 12 inches.
 ![Pasted image 20250926133137.png](/img/user/Pasted%20image%2020250926133137.png)
 **NOTE THAT THE OPERATION** (at the bottom of the edit feature dialogue box) **HAS BEEN CHANGED FROM "JOIN" TO "NEW BODY"** 
 - This is very important, as if you leave it as "join," it will connect with any bodies it touches as a single body. We want each piece as a separate body so that later on when we go to manufacture this with the laser cutter as a scale model, or the CNC at full scale, we can pull apart all of the pieces digitally, and lay them out flat to cut them out of a single piece of material.
+
+## Step 3: Offset Extrude
+Next, we are going to create an "offset extrude" so that the back face of this side table is inset 1/8" when viewed from the back. This creates a "reveal" or an *intentional setback* of that surface. 
+- Reveals are often used, both to allow a slight shadow, which gives more depth to the object's shape, but also so that you don't need as tight of a tolerance when constructing.
+Okay, so start by opening your extrude tool, and selecting selecting the inset rectangle on the sketch you made as so:
+![Pasted image 20250926135053.png](/img/user/Pasted%20image%2020250926135053.png)
+Under the dialogue box, you see a list of variables like "Type," "Profiles," "Start," etc... We want to change the "Start" from *profile plane* to *offset*. This changes your extruded body from starting on the plane your sketch was drawn on, to starting at an offset from that plane. Once you change to offset, another box will appear for a numerical value for the offset. We are going to input 0.125". 
+Now in the distance numerical value (so the thickness of the extrusion,) put 0.75."
+
+**Remember to change the operation to *new body*** otherwise it will join all your bodies into one.
+
+- Note that your value may need to be negative - keep an eye on which direction the offset is putting your extrusion. 
+
+## Step 4: Sketch 2
+Start another sketch, this time on the bottom surface of your cabinet.
+We are going to toggle into the construction geometry mode by pressing "X" on your keyboard, or finding [[Fusion 360 Sketches#^4f0cd1\|the toggle in the sketch palette]].
