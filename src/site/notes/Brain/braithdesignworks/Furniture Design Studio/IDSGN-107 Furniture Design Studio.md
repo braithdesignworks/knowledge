@@ -4,6 +4,7 @@
 
 **Download Fusion:**
 https://www.autodesk.com/products/fusion-360/personal
+https://drive.google.com/file/d/1p0-yu1SmDx5p18CoHApfPXLmsU3ywFqL/view?usp=sharing
 
 **Fusion Online**
 https://fusion.online.autodesk.com/
