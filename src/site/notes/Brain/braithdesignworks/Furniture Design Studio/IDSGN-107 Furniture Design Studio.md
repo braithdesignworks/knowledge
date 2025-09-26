@@ -11,8 +11,8 @@ https://drive.google.com/file/d/1p0-yu1SmDx5p18CoHApfPXLmsU3ywFqL/view?usp=shari
 https://fusion.online.autodesk.com/
 
 **How To Use Fusion 360**
-All of my notes - [[Brain/Documents/Creative/Fusion360\|Fusion360]]
-Side Table - [[Fusion 360 Side Table Demo\|Fusion 360 Side Table Demo]]
+[[Brain/Documents/Creative/Fusion360\|All of the Notes I Have on Fusion 360]]
+[[Fusion 360 Side Table Demo\|Side Table Demo]]
 
 
 **Class Schedule**
