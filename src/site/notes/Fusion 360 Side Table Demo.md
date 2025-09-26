@@ -14,6 +14,9 @@ Then use 4 small line segments as shown to divide it into parts. Diagonal on the
 Make sure to use the [[Fusion 360 Horizontal Vertical Constraint\|horizontal/vertical constraint]] on the center point of your rectangle and the origin point to constrain the box from being able to move side to side.
 Also dimension the bottom edge from the origin point 1.5" as shown in the image.
 Now finish sketch.
+{ #b0781e}
+
+ - Note that all of the lines in the sketch are black. A black line is a fully constrained line. If you have blue or orange lines, they need to be constrained either via a [[Fusion 360 Sketch Dimensions\|dimension]] or one of the [[Fusion 360 Sketch Constraints\|constraints]].
 ## Step 2: Extrude
 Next, use the extrude command to extrude the top and bottom 12 inches as shown here:
 ![Pasted image 20250926132608.png](/img/user/Pasted%20image%2020250926132608.png)
@@ -28,6 +31,7 @@ With that sketch visible again, we are going to now extrude the sides 12 inches.
 ## Step 3: Offset Extrude
 Next, we are going to create an "offset extrude" so that the back face of this side table is inset 1/8" when viewed from the back. This creates a "reveal" or an *intentional setback* of that surface. 
 - Reveals are often used, both to allow a slight shadow, which gives more depth to the object's shape, but also so that you don't need as tight of a tolerance when constructing.
+
 Okay, so start by opening your extrude tool, and selecting selecting the inset rectangle on the sketch you made as so:
 ![Pasted image 20250926135053.png](/img/user/Pasted%20image%2020250926135053.png)
 Under the dialogue box, you see a list of variables like "Type," "Profiles," "Start," etc... We want to change the "Start" from *profile plane* to *offset*. This changes your extruded body from starting on the plane your sketch was drawn on, to starting at an offset from that plane. Once you change to offset, another box will appear for a numerical value for the offset. We are going to input 0.125". 
@@ -40,3 +44,10 @@ Now in the distance numerical value (so the thickness of the extrusion,) put 0.7
 ## Step 4: Sketch 2
 Start another sketch, this time on the bottom surface of your cabinet.
 We are going to toggle into the construction geometry mode by pressing "X" on your keyboard, or finding [[Fusion 360 Sketches#^4f0cd1\|the toggle in the sketch palette]].
+Next, create a line diagonally across the bottom surface of the cabinet. This will help us find the center of the piece.
+![Pasted image 20250926140855.png](/img/user/Pasted%20image%2020250926140855.png)
+- Notice that the line is dotted. This is because it is a construction line. If yours isn't, select it, and press "X" on your keyboard to toggle linetype.
+Then, create a center rectangle just like in [[Fusion 360 Side Table Demo#^b0781e\|Step 1]]. Offset that with the [[Fusion 360 Offset Sketch Geometry#^df2df8\|offset tool]] 1.25" and draw in the line segments dividing the shape as shown:
+![Pasted image 20250926141416.png](/img/user/Pasted%20image%2020250926141416.png)
+- Note that all of the lines in the sketch are black. A black line is a fully constrained line. If you have blue or orange lines, they need to be constrained either via a [[Fusion 360 Sketch Dimensions\|dimension]] or one of the [[Fusion 360 Sketch Constraints\|constraints]].
+Then, finish sketch.
