@@ -7,6 +7,8 @@
 
 ![Fusion-Workspace-Overview.jpg](/img/user/Brain/braithdesignworks/Fusion360%20Tutorial%20Images/Fusion-Workspace-Overview.jpg)
 These are the elements typically visible and most often consulted in the design workspace. 
+{ #f1cb41}
+
 
 ## **SKETCH INTERFACE**
 ###### Need to know how to use this interface? Click here - [[Fusion 360 Sketches\|Fusion 360 Sketches]]

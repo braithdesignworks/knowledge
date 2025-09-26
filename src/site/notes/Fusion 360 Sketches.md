@@ -6,7 +6,7 @@ In Fusion, you can use the **Sketch** tools to create the sketch profiles that
 ###### Sketches are created on planes, but **don't worry - sketch planes can be redefined later**
 
 [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]]
-
+[[Fusion 360 Sketch Rectangle\|Fusion 360 Sketch Rectangle]]
 
 
 
