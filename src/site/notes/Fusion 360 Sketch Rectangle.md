@@ -29,7 +29,9 @@ The **3-Point Rectangle** tool creates a rectangle defined by 3 points. The 3 
 You click to place the first corner point, then click to place the second point. Alternatively, you can specify the first distance value, then click to place the point. Then you click to place the third point or specify the second distance value.
 
 ## Center Rectangle
+{ #2ec480}
+
+You can find the center rectangle tool under the dropdown *Create>Rectangle>Center Rectangle* or you can use the standard rectangle tool, and in the [[Brain/Fusion 360 Interface#^6edec4\|sketch palette]] on the right side of the screen, you should see (when the rectangle tool is selected,) *feature options* and be able to toggle to center rectangle. 
 
 The **Center Rectangle** tool creates a rectangle defined by the center point and one corner point.
-
 You click to place the first point as the center of the rectangle, then click to place a corner point or specify width and height values.

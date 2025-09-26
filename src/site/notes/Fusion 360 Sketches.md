@@ -7,6 +7,7 @@ In Fusion, you can use the **Sketch** tools to create the sketch profiles that
 
 [[Fusion 360 Sketch Dimensions\|Fusion 360 Sketch Dimensions]]
 [[Fusion 360 Sketch Rectangle\|Fusion 360 Sketch Rectangle]]
+[[Fusion 360 Offset Sketch Geometry\|Fusion 360 Offset Sketch Geometry]]
 
 
 
