@@ -51,3 +51,7 @@ Then, create a center rectangle just like in [[Fusion 360 Side Table Demo#^b0781
 ![Pasted image 20250926141416.png](/img/user/Pasted%20image%2020250926141416.png)
 - Note that all of the lines in the sketch are black. A black line is a fully constrained line. If you have blue or orange lines, they need to be constrained either via a [[Fusion 360 Sketch Dimensions\|dimension]] or one of the [[Fusion 360 Sketch Constraints\|constraints]].
 Then, finish sketch.
+
+## Step 5: Plinth Extrusion
+Extrude 2 opposing sides of the sketch we just created 1.25" as new bodies. Just like we did earlier; preserving the separate bodies for individual pieces.
+![Pasted image 20250926142658.png](/img/user/Pasted%20image%2020250926142658.png)
