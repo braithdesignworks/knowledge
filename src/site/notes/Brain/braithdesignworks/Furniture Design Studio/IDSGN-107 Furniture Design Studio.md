@@ -17,3 +17,6 @@ https://fusion.online.autodesk.com/
 
 **Class Schedule**
 [[Brain/braithdesignworks/Furniture Design Studio/Furniture Design Studio Schedule\|Furniture Design Studio Schedule]]
+
+**CHAIR EXAMPLE MODEL**
+[[https://drive.google.com/file/d/1c_5KD3QBdPFwqyF-l3u3KoxP3TWzuvtI/view?usp=sharing\|Download]]
